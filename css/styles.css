@@ -1,0 +1,31 @@
+html, body, div{ 
+    margin: 0 ;
+    padding: 0 ; 
+    max-width:100%;
+    overflow-x:hidden !important; 
+    
+}
+
+.nav{
+	background-color:rgb(0,65,65) !important;  
+    border-color:rgb(0,65,65) !important;
+    color: white;
+}
+
+span{
+	color:white;
+}
+
+body{
+background-color:purple;
+}
+
+.start{
+    margin-top: 3em;
+}
+
+.game{
+	border-style: solid;
+	border-color: black;
+	background-color: gray;
+}
